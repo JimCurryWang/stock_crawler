@@ -3,11 +3,11 @@ from bs4.element import Tag
 import pymysql
 
 conn= pymysql.connect(
-        host='databda.ddns.net',
+        host='dataxxx.xxxx.xxx',
         port = 3306,
         user='root',
-        passwd='iiibda',
-        db ='chenyu',
+        passwd='xxxxxx',
+        db ='stock',
         charset='utf8',
         )     
 
