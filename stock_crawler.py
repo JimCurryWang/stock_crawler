@@ -66,5 +66,5 @@ for i in id:
          #except Exception as e:
              #date = ""
     
-    print(i + " finish")
+    print(i + " finished")
 
